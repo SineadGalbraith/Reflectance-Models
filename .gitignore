@@ -17,3 +17,5 @@ monkeyhead_smooth.dae
 *.mtl
 *.obj
 teapot.*
+*.filters
+*.user
