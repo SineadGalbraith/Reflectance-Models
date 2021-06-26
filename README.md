@@ -1,6 +1,10 @@
-# CS7GV3 RealTimeRendering
-## Lab1
+# Reflectance Models 
 
-This lab was completed as part of the CS7GV3 Real-Time Rendering Module @ TCD. 
+The objective of this assignment was to compare three different reflectance models:
+- Phong/Blinn-Phong
+- One Non-Photorealistic Technique (Toon)
+- One "Realistic" Technique (Cook-Torrance)
 
-The project shows the Stanford Bunny Model with three different local illumination shaders; Phone, Toon and Cook-Torrance.
+Other Requirements for this Assignment included:
+- Use Vertex and Pixel Shaders in GLSL
+- Implement a scene with at least 2 rotating objects to compare different shading models across varying reflectance parameters.
