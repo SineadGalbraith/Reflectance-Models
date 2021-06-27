@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\sgal\documents\5th year\cs7gv3 - real-time rendering\assignments\labs\lab 1\lab1\lab04\main.cpp(139): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+c:\users\sgal\documents\5th year\cs7gv3 - real-time rendering\assignments\labs\lab 1\lab1\lab04\main.cpp(570): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\sgal\documents\5th year\cs7gv3 - real-time rendering\assignments\labs\lab 1\lab1\lab04\main.cpp(585): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\sgal\documents\5th year\cs7gv3 - real-time rendering\assignments\labs\lab 1\lab1\lab04\main.cpp(146): warning C4715: 'createFont': not all control paths return a value
+  Lab04.vcxproj -> C:\Users\sgal\Documents\5th Year\CS7GV3 - Real-Time Rendering\Assignments\Labs\Lab 1\Lab1\\build\executables\Debug\Lab 04.exe
